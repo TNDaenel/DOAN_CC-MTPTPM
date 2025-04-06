@@ -3,7 +3,7 @@
 **Mô hình bán lẻ tiện lợi, phục vụ nhu cầu tiêu dùng hàng ngày của người dân.**
 
 ---
-
+![Image](https://github.com/user-attachments/assets/64c3a1a3-51b2-4145-b37e-f8db8ac14c9e)
 ## 🌟 Giới Thiệu
 
 Dự án Siêu Thị Mini King Food Mart hướng tới việc xây dựng một mô hình bán lẻ quy mô vừa, tiện lợi, linh hoạt và hiện đại nhằm đáp ứng nhiều nhóm khách hàng trong khu dân cư. Chúng tôi tập trung vào việc cung cấp trải nghiệm mua sắm nhanh chóng, dễ dàng và đáp ứng nhu cầu hàng ngày của cộng đồng.
